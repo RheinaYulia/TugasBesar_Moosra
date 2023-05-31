@@ -17,7 +17,7 @@
                     <thead>
                         <tr>
                             <th>No</th>
-                            <th>Nama Mahasiswa</th>
+                            <th>Alternatif</th>
                             <th>Action</th>
                         </tr>
                     </thead>
